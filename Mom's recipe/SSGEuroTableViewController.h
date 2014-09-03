@@ -1,5 +1,5 @@
 //
-//  SSGViewController.h
+//  SSGEuroTableViewController.h
 //  Mom's recipe
 //
 //  Created by Apple on 02.07.14.
@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SSGViewController : UIViewController <UITableViewDataSource,UITableViewDelegate>
+@interface SSGEuroTableViewController : UITableViewController
+@property (weak, nonatomic) IBOutlet UIImageView *euro;
 
 @end

@@ -21,6 +21,7 @@
 		18A9C8841963EAD900CF43D8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18A9C8661963EAD900CF43D8 /* UIKit.framework */; };
 		18A9C88C1963EAD900CF43D8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18A9C88A1963EAD900CF43D8 /* InfoPlist.strings */; };
 		18A9C88E1963EAD900CF43D8 /* Mom_s_recipeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A9C88D1963EAD900CF43D8 /* Mom_s_recipeTests.m */; };
+		18A9C89C196402B900CF43D8 /* SSGEuro.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A9C89B196402B900CF43D8 /* SSGEuro.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		18A9C8891963EAD900CF43D8 /* Mom's recipeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Mom's recipeTests-Info.plist"; sourceTree = "<group>"; };
 		18A9C88B1963EAD900CF43D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		18A9C88D1963EAD900CF43D8 /* Mom_s_recipeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Mom_s_recipeTests.m; sourceTree = "<group>"; };
+		18A9C89A196402B900CF43D8 /* SSGEuro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSGEuro.h; sourceTree = "<group>"; };
+		18A9C89B196402B900CF43D8 /* SSGEuro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSGEuro.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				18A9C8711963EAD900CF43D8 /* SSGAppDelegate.h */,
 				18A9C8721963EAD900CF43D8 /* SSGAppDelegate.m */,
 				18A9C8741963EAD900CF43D8 /* Main.storyboard */,
+				18A9C89A196402B900CF43D8 /* SSGEuro.h */,
+				18A9C89B196402B900CF43D8 /* SSGEuro.m */,
 				18A9C8771963EAD900CF43D8 /* SSGViewController.h */,
 				18A9C8781963EAD900CF43D8 /* SSGViewController.m */,
 				18A9C87A1963EAD900CF43D8 /* Images.xcassets */,
@@ -250,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A9C89C196402B900CF43D8 /* SSGEuro.m in Sources */,
 				18A9C8731963EAD900CF43D8 /* SSGAppDelegate.m in Sources */,
 				18A9C8791963EAD900CF43D8 /* SSGViewController.m in Sources */,
 				18A9C86F1963EAD900CF43D8 /* main.m in Sources */,

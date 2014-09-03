@@ -1,5 +1,5 @@
 //
-//  SSGViewController.h
+//  SSGEuro.h
 //  Mom's recipe
 //
 //  Created by Apple on 02.07.14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SSGViewController : UIViewController <UITableViewDataSource,UITableViewDelegate>
+@interface SSGEuro : UITableViewController
 
 @end

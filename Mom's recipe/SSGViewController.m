@@ -7,6 +7,7 @@
 //
 
 #import "SSGViewController.h"
+#import "SSGEuroTableViewController.h"
 
 @interface SSGViewController ()
 
